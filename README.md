@@ -6,7 +6,7 @@ If you have any questions on computer programming, or anything to do with progra
 
 <br /><br />
 
-#If you want to use thid source code, then 👇 run this code in your terminal to get the pods installed.👇
+#If you want to use this source code, then 👇 run this code in your terminal to get the pods installed.👇
 
 cd Desktop<br />
 cd YouTube<br />
