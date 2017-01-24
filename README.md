@@ -4,7 +4,7 @@ In this app I am going to show you how easy it is to embed YouTube videos. I am 
 
 If you have any questions on computer programming, or anything to do with programming please reach out to me on any of my social media accounts I would love to help. #the_kaseys
 
-
+<br /><br />
 
 #If you want to use thid source code, then 👇 run this code in your terminal to get the pods installed.👇
 
@@ -12,7 +12,7 @@ cd Desktop<br />
 cd YouTube<br />
 pod install<br />
 
-
+<br />
 #Follow Me Online Here:
 
 YouTube: https://www.youtube.com/channel/UCsyqd_TQlEY5acKvHnawdxg<br />
